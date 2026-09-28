@@ -1,0 +1,8 @@
+/aws-waf-mobile
+/aws-waf-mobile.exe
+*.exe
+*.dll
+.DS_Store
+config.json
+.env
+dist/
